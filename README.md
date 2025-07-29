@@ -1,4 +1,4 @@
-## [Works in Robotics](https://orcid.org/0009-0006-1230-8135 "ORCID")
+## Works in Robotics
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BottleXu&repo=advanced_evph&show_owner=false)](https://github.com/BottleXu/advanced_evph)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Multiplanet-Robot&repo=Waliner-Lightweight-and-Resilient-Plugin-Mapping-Method-With-Wall-Features&show_owner=true)](https://github.com/Multiplanet-Robot/Waliner-Lightweight-and-Resilient-Plugin-Mapping-Method-With-Wall-Features)
 
