@@ -8,11 +8,11 @@
 | Waliner: Lightweight and Resilient Plugin Mapping Method With Wall Features for Visually Challenging Indoor Environments  | [IEEE RA-L](https://ieeexplore.ieee.org/document/10969808 "10.1109/LRA.2025.3562370")| 2025|
 | An Extended Vector Polar Histogram Method Using Omni-Directional LiDAR Information  | [Symmetry](https://www.mdpi.com/2073-8994/15/8/1545 "10.3390/sym15081545") | 2023 |
 
-
+> [MASL(Multi-Agent System Lab.)](https://masl.kumoh.ac.kr/ "MASL") at kit(Kumoh National Institute of Technology) in South Korea. Researched at mobile robot navigation. (2022~2025)
 
 ## Works in Autonomous Vehicle
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BottleXu&repo=kiapi_autoware_model&show_owner=false)](https://github.com/BottleXu/kiapi_autoware_model)
-
+> KIAPI(Korea Intelligent Automotive Parts Promotion Institude) in South Korea. (2025~)
 
 ## Tech Stack
 
